@@ -1,0 +1,403 @@
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_main.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_CP.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Zzbd.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Input.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Weixiu.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_zzgy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Bom.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Gy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Luxian.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Road.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_ZZSX.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Cstm.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_QueryBd.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_JgGy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_QueryWx.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\bin\Debug\mts.mdf
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\bin\Debug\mts_log.ldf
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\bin\Debug\MTS.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\bin\Debug\MTS.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.Frm_main.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Bom.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.Frm_CP.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Cstm.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Gy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Input.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_JgGy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Luxian.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_QueryBd.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_QueryWx.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Road.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Weixiu.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_zzgy.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_ZZSX.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Zzbd.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS20120528\MTS\obj\Debug\MTS.frm_querytmcs.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_querytmcs.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_gllx_2.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_History.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Liebiao.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\NPOI.xml
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Login.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Reg.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.exe.config
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_View.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_ViewInput.resources
+E:\MTS\MTS\bin\Debug\MTS.exe.config
+E:\MTS\MTS\bin\Debug\MTS.exe
+E:\MTS\MTS\bin\Debug\MTS.pdb
+E:\MTS\MTS\bin\Debug\NPOI.xml
+E:\MTS\MTS\obj\Debug\ResolveAssemblyReference.cache
+E:\MTS\MTS\obj\Debug\MTS.Frm_main.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Bom.resources
+E:\MTS\MTS\obj\Debug\MTS.Frm_CP.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Cstm.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_gllx_2.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Gy.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_History.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Input.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_JgGy.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Liebiao.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Login.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Luxian.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_QueryBd.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_querytmcs.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_QueryWx.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Reg.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Road.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_View.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_ViewInput.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Weixiu.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_zzgy.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_ZZSX.resources
+E:\MTS\MTS\obj\Debug\MTS.Properties.Resources.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Zzbd.resources
+E:\MTS\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+E:\MTS\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+E:\MTS\MTS\obj\Debug\MTS.exe
+E:\MTS\MTS\obj\Debug\MTS.pdb
+D:\MTS\MTS\obj\Debug\MTS.exe
+D:\MTS\MTS\obj\Debug\MTS.pdb
+D:\MTS\MTS\bin\Debug\MTS.exe
+D:\MTS\MTS\bin\Debug\MTS.pdb
+D:\MTS\MTS\bin\Debug\NPOI.xml
+D:\MTS\MTS\obj\Debug\ResolveAssemblyReference.cache
+D:\MTS\MTS\obj\Debug\MTS.Frm_main.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Bom.resources
+D:\MTS\MTS\obj\Debug\MTS.Frm_CP.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Cstm.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_gllx_2.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Gy.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_History.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Input.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_JgGy.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Liebiao.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Login.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Luxian.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_QueryBd.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_querytmcs.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_QueryWx.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Reg.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Road.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_View.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_ViewInput.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Weixiu.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_zzgy.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_ZZSX.resources
+D:\MTS\MTS\obj\Debug\MTS.Properties.Resources.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Zzbd.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+D:\MTS\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\MTS.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\bin\Debug\NPOI.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_main.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Bom.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_CP.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Cstm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_gllx_2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Gy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_History.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Input.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_JgGy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Liebiao.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Login.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Luxian.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_QueryBd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_querytmcs.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_QueryWx.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Reg.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Road.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_View.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_ViewInput.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Weixiu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_zzgy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_ZZSX.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Zzbd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_Treequery.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\bin\Debug\MTS.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\bin\Debug\MTS.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\bin\Debug\MTS.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\bin\Debug\NPOI.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.Frm_main.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Bom.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.Frm_CP.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Cstm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_gllx_2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Gy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_History.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Input.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_JgGy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Liebiao.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Login.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Luxian.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_QueryBd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_querytmcs.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_QueryWx.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Reg.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Road.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Treequery.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_View.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_ViewInput.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Weixiu.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_zzgy.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_ZZSX.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Zzbd.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS1.4.8\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.BzBom.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTS\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+D:\MTS\MTS\obj\Debug\MTS.BzBom.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+D:\MTS\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+D:\MTS\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+D:\MTS\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_Treequery.resources
+D:\MTS\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+D:\MTSX86\MTS\obj\Debug\MTS.exe
+D:\MTSX86\MTS\obj\Debug\MTS.pdb
+D:\MTSX86\MTS\bin\Debug\MTS.exe
+D:\MTSX86\MTS\bin\Debug\MTS.pdb
+D:\MTSX86\MTS\bin\Debug\NPOI.xml
+D:\MTSX86\MTS\obj\Debug\ResolveAssemblyReference.cache
+D:\MTSX86\MTS\obj\Debug\MTS.BzBom.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Frm_main.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Bom.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Frm_CP.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Cstm.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_gllx_2.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Gy.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_History.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Input.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_JgGy.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Liebiao.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Login.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Luxian.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_QueryBd.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_querytmcs.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_QueryWx.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Reg.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Road.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Treequery.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_View.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_ViewInput.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Weixiu.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_zzgy.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_ZZSX.resources
+D:\MTSX86\MTS\obj\Debug\MTS.Properties.Resources.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Zzbd.resources
+D:\MTSX86\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+D:\MTSX86\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+E:\MTSX86\MTS\bin\Debug\MTS.exe
+E:\MTSX86\MTS\bin\Debug\MTS.pdb
+E:\MTSX86\MTS\obj\Debug\ResolveAssemblyReference.cache
+E:\MTSX86\MTS\obj\Debug\MTS.BzBom.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Frm_main.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Bom.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Frm_CP.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Cstm.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_gllx_2.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Gy.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_History.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Input.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_JgGy.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Liebiao.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Login.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Luxian.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_QueryBd.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_querytmcs.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_QueryWx.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Reg.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Road.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Treequery.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_View.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_ViewInput.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Weixiu.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_zzgy.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_ZZSX.resources
+E:\MTSX86\MTS\obj\Debug\MTS.Properties.Resources.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Zzbd.resources
+E:\MTSX86\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+E:\MTSX86\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+E:\MTSX86\MTS\obj\Debug\MTS.exe
+E:\MTSX86\MTS\obj\Debug\MTS.pdb
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.exe
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.pdb
+H:\自写软件源代码\MTSX86\MTS\bin\Debug\MTS.exe
+H:\自写软件源代码\MTSX86\MTS\bin\Debug\MTS.pdb
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\ResolveAssemblyReference.cache
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.BzBom.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Frm_main.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Bom.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Frm_CP.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Cstm.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_gllx_2.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Gy.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_History.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Input.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_JgGy.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Liebiao.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Login.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Luxian.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_QueryBd.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_querytmcs.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_QueryWx.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Reg.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Road.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Treequery.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_View.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_ViewInput.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Weixiu.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_zzgy.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_ZZSX.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.Properties.Resources.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Zzbd.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\自写软件源代码\MTSX86\MTS\bin\Debug\Interop.LabelManager2.dll
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\Interop.LabelManager2.dll
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.csproj.ResolveComReference.cache
+H:\自写软件源代码\MTSX86\MTS\obj\Debug\MTS.frm_Keithley.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.csproj.ResolveComReference.cache
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.BzBom.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Frm_main.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_BarcodePrint.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Bom.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Frm_Bomgl.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Frm_Bzcx.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Frm_Bzxm.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Frm_CP.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Cstm.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Cwdmb.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_GllxCplx.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_GllxCpxh.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_gllx_2.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Gy.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_History.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Input.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_JgGy.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Keithley.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Liebiao.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Login.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Luxian.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_QueryBd.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_querytmcs.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_QueryWx.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Reg.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Road.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Treequery.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_View.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_ViewFirst.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_ViewInput.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Weixiu.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_zzgy.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_ZZSX.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.Properties.Resources.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Zzbd.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frm_Wxdmb.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.csproj.GenerateResource.Cache
+F:\Diy\C#\MTSX86\MTS\bin\Debug\MTS.exe
+F:\Diy\C#\MTSX86\MTS\bin\Debug\MTS.pdb
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.exe
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.pdb
+F:\Diy\C#\MTSX86\MTS\obj\Debug\Interop.LabelManager2.dll
+F:\Diy\C#\MTSX86\MTS\bin\Debug\Interop.LabelManager2.dll
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frmMBSet.resources
+F:\Diy\C#\MTSX86\MTS\bin\Debug\MTS.exe.config
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.csprojResolveAssemblyReference.cache
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frmCPTypeEdit.resources
+F:\Diy\C#\MTSX86\MTS\obj\Debug\MTS.frmITMBSet.resources

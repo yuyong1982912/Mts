@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{00529ABE-A798-4432-BB08-9CE7FDD1F9EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MTS</RootNamespace>
+    <AssemblyName>MTS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Chartlet, Version=0.9.6.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Dapper">
+      <HintPath>bin\Debug\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL" />
+    <Reference Include="NPOI, Version=1.2.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BzBom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BzBom.Designer.cs">
+      <DependentUpon>BzBom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BarcodePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BarcodePrint.Designer.cs">
+      <DependentUpon>frm_BarcodePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Bom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Bom.Designer.cs">
+      <DependentUpon>frm_Bom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Bomgl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Bomgl.Designer.cs">
+      <DependentUpon>Frm_Bomgl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Bzcx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Bzcx.Designer.cs">
+      <DependentUpon>Frm_Bzcx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Bzxm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Bzxm.Designer.cs">
+      <DependentUpon>Frm_Bzxm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_CP.Designer.cs">
+      <DependentUpon>Frm_CP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Cstm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cstm.Designer.cs">
+      <DependentUpon>frm_Cstm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Cwdmb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cwdmb.Designer.cs">
+      <DependentUpon>frm_Cwdmb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_GllxCplx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GllxCplx.Designer.cs">
+      <DependentUpon>frm_GllxCplx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_GllxCpxh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GllxCpxh.Designer.cs">
+      <DependentUpon>frm_GllxCpxh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gllx_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gllx_2.Designer.cs">
+      <DependentUpon>frm_gllx_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Gy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Gy.Designer.cs">
+      <DependentUpon>frm_Gy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_History.Designer.cs">
+      <DependentUpon>frm_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Input.Designer.cs">
+      <DependentUpon>frm_Input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_JgGy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_JgGy.Designer.cs">
+      <DependentUpon>frm_JgGy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Liebiao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Liebiao.Designer.cs">
+      <DependentUpon>frm_Liebiao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Luxian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Luxian.Designer.cs">
+      <DependentUpon>frm_Luxian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QueryBd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QueryBd.Designer.cs">
+      <DependentUpon>frm_QueryBd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_querytmcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_querytmcs.Designer.cs">
+      <DependentUpon>frm_querytmcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QueryWx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QueryWx.Designer.cs">
+      <DependentUpon>frm_QueryWx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Reg.Designer.cs">
+      <DependentUpon>frm_Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Road.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Road.Designer.cs">
+      <DependentUpon>frm_Road.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Treequery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Treequery.Designer.cs">
+      <DependentUpon>frm_Treequery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_View.designer.cs">
+      <DependentUpon>frm_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ViewFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ViewFirst.Designer.cs">
+      <DependentUpon>frm_ViewFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ViewInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ViewInput.Designer.cs">
+      <DependentUpon>frm_ViewInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Weixiu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Weixiu.Designer.cs">
+      <DependentUpon>frm_Weixiu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_zzgy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_zzgy.Designer.cs">
+      <DependentUpon>frm_zzgy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ZZSX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ZZSX.Designer.cs">
+      <DependentUpon>frm_ZZSX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\bzxmb.cs" />
+    <Compile Include="Model\cpxh.cs" />
+    <Compile Include="Model\Mbzbomf.cs" />
+    <Compile Include="Model\Mbzbomz.cs" />
+    <Compile Include="Model\Mbzfb.cs" />
+    <Compile Include="Model\Mcpybzbomgl.cs" />
+    <Compile Include="Model\Mposts.cs" />
+    <Compile Include="Model\Musers.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BzBom.resx">
+      <DependentUpon>BzBom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BarcodePrint.resx">
+      <DependentUpon>frm_BarcodePrint.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Bom.resx">
+      <DependentUpon>frm_Bom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Bomgl.resx">
+      <DependentUpon>Frm_Bomgl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Bzcx.resx">
+      <DependentUpon>Frm_Bzcx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Bzxm.resx">
+      <DependentUpon>Frm_Bzxm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CP.resx">
+      <DependentUpon>Frm_CP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cstm.resx">
+      <DependentUpon>frm_Cstm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cwdmb.resx">
+      <DependentUpon>frm_Cwdmb.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GllxCplx.resx">
+      <DependentUpon>frm_GllxCplx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GllxCpxh.resx">
+      <DependentUpon>frm_GllxCpxh.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gllx_2.resx">
+      <DependentUpon>frm_gllx_2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Gy.resx">
+      <DependentUpon>frm_Gy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_History.resx">
+      <DependentUpon>frm_History.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Input.resx">
+      <DependentUpon>frm_Input.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_JgGy.resx">
+      <DependentUpon>frm_JgGy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Liebiao.resx">
+      <DependentUpon>frm_Liebiao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Luxian.resx">
+      <DependentUpon>frm_Luxian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QueryBd.resx">
+      <DependentUpon>frm_QueryBd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_querytmcs.resx">
+      <DependentUpon>frm_querytmcs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QueryWx.resx">
+      <DependentUpon>frm_QueryWx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Reg.resx">
+      <DependentUpon>frm_Reg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Road.resx">
+      <DependentUpon>frm_Road.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Treequery.resx">
+      <DependentUpon>frm_Treequery.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_View.resx">
+      <DependentUpon>frm_View.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ViewFirst.resx">
+      <DependentUpon>frm_ViewFirst.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ViewInput.resx">
+      <DependentUpon>frm_ViewInput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Weixiu.resx">
+      <DependentUpon>frm_Weixiu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_zzgy.resx">
+      <DependentUpon>frm_zzgy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ZZSX.resx">
+      <DependentUpon>frm_ZZSX.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZZBD.resx">
+      <DependentUpon>ZZBD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Wxdmb.resx">
+      <DependentUpon>frm_Wxdmb.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Untily\DataGridViewDataWindowCell.cs" />
+    <Compile Include="Untily\DataGridViewDataWindowColumn.cs" />
+    <Compile Include="Untily\DataGridViewDataWindowEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Untily\DataWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Untily\FenYe.cs" />
+    <Compile Include="Untily\Log.cs" />
+    <Compile Include="Untily\serverTime.cs" />
+    <Compile Include="Untily\SqlHelper.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZZBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZZBD.Designer.cs">
+      <DependentUpon>ZZBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Wxdmb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Wxdmb.Designer.cs">
+      <DependentUpon>frm_Wxdmb.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model" />
+    <Folder Include="Untily" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

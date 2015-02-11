@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<update>
+  <file ver="02AACEEA722C631D1E19BB26691E26C8" path="Chartlet.dll" />
+  <file ver="B0DF80EB7A882EEAFBA3F3738B6D6872" path="Dapper.dll" />
+  <file ver="AB0E589DEA2CD904DB23B4FE51CBB8BB" path="Interop.LabelManager2.dll" />
+  <file ver="746F909970274C71991F63325BA3AB4E" path="Ionic.Zip.dll" />
+  <file ver="490A95D724612ED3A39AEB3841C62A74" path="Lppx2.tlb" />
+  <file ver="9E6D91F20BC733F07E07B1774012184A" path="MTS.exe" />
+  <file ver="C8D8A2EABBCD2E30D1F69C7616C09C5D" path="MTS.exe.config" />
+  <file ver="15E189EBADF39B614A74245768AAED4D" path="MTS.pdb" />
+  <file ver="91DF22D4ADB0CE96817937638BFAE13A" path="MTS.vshost.exe" />
+  <file ver="C8D8A2EABBCD2E30D1F69C7616C09C5D" path="MTS.vshost.exe.config" />
+  <file ver="F2CE05183A993CD8CBD46CC0B08E08A0" path="NPOI.dll" />
+  <file ver="E5584A5CF890DC0FCB5238C56181DCCE" path="pwd.dll" />
+</update>

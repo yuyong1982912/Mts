@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MTS.BzBom" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgQADAAIQIAAAGAAAACAAEAABAAAAAAAAiCAAA=</HashCode>
+      <FileName>BzBom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Frm_main" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iaIOBGAYvKzEiUQKUAzMCYgCCECAAUsDlAfAEYAAAIE=</HashCode>
+      <FileName>Form_Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_BarcodePrint" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQEEgECACAAAABAAECBEAgCDAAAAAAAAgAAAAACACA=</HashCode>
+      <FileName>frm_BarcodePrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Bom" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQEACAADBAAAASAACAAMCCAAAAAAAAAAAGAEAIAAA=</HashCode>
+      <FileName>frm_Bom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Frm_Bomgl" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAACAAIAAAAACAAAICAAAAAAAAAgIAAIACAAA=</HashCode>
+      <FileName>Frm_Bomgl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Frm_Bzcx" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgQgDAAAQiAAACAAIACAAAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>Frm_Bzcx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Frm_Bzxm" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAgAACAIAQAAAACAAAICAAAAAAAAIAAAAgAAAAA=</HashCode>
+      <FileName>Frm_Bzxm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Frm_CP" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAQAAAECAAAAACACCGAABCQAAABDAAAAACAEAAAAA=</HashCode>
+      <FileName>Frm_CP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Cstm" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACFIACACCCAAEBAPAACIAACCEAAAAQgAAAICAABRBhA=</HashCode>
+      <FileName>frm_Cstm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Cwdmb" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACCAAABAKAACAAAICUAAAAAAAAAAKAAAAAQA=</HashCode>
+      <FileName>frm_Cwdmb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_gllx_2" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACCAAABAKAACAAAACEAAAAAAQABQCAAAAAAA=</HashCode>
+      <FileName>frm_gllx_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_GllxCplx" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAIAAAAAKAAAACCAACAAAACAACAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>frm_GllxCplx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_GllxCpxh" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAACAIAAACAACAAAACAAAAgEAIAAACAAAAAAA=</HashCode>
+      <FileName>frm_GllxCpxh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Gy" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAYAAAECCAAAFACAAKAAAACEBAAAAABAAACCEAAAAA=</HashCode>
+      <FileName>frm_Gy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_History" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAAAAAAACAAAACAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frm_History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Input" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgIEAAACCDkQRACIAKMAAEykAACkAAAAEACQAAACAA=</HashCode>
+      <FileName>frm_Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_JgGy" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABgCAAAAgCAACAAAACAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>frm_JgGy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Keithley" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBBIAJABACqAoBAAAACFgAESAAA6AACBAXDEAAAAEBA=</HashCode>
+      <FileName>frm_Keithley.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Liebiao" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgBACAAABJCAACAAAQCAAAAAAAAQCACAAAAAEA=</HashCode>
+      <FileName>frm_Liebiao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Login" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAABCAAIAAAAACAAAgCIAAAAAACAAAAAAACAAA=</HashCode>
+      <FileName>frm_Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Luxian" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCIAAAEACAAAAACABGAAAACAAACAAAFAABCAAAAAAE=</HashCode>
+      <FileName>frm_Luxian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_QueryBd" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABgCAAAAgCAACAAAACAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>frm_QueryBd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_querytmcs" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QSAAAIAAGCAAAAAAABCBQAAKUAASABgABAYQAQAAAAk=</HashCode>
+      <FileName>frm_querytmcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_QueryWx" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABgCAAAAgCAACAAAACAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>frm_QueryWx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Reg" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAIAACSAAIAACBACAAAQCAAAAAAAIAAAAAAACAAQ=</HashCode>
+      <FileName>frm_Reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Road" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAACCCAAABACAACEAACCEAAIAACAAAACAAAAAAA=</HashCode>
+      <FileName>frm_Road.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Treequery" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAQAB4CAAAAwCAACAAIBCAAAAAAIAAAACBAAEAAg=</HashCode>
+      <FileName>frm_Treequery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_View" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAACAAECAAEAAAAACAAAACAAAAAAAAIAAAEQAJAAA=</HashCode>
+      <FileName>frm_View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_ViewFirst" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAQAAAAAiAAAADAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frm_ViewFirst.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_ViewInput" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAgCAAABgAAACAAIACAEQAAAIgAAAAAAAAAAA=</HashCode>
+      <FileName>frm_ViewInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Weixiu" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAgAAAACAAYADCAAjAACgCggAAAAgAIEEKAAAAAAA=</HashCode>
+      <FileName>frm_Weixiu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Wxdmb" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACCAAABAKAACAAAICUAAAAAAAAAAKAAAAAQA=</HashCode>
+      <FileName>frm_Wxdmb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_zzgy" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECIAAAAACCAAAAACAAKAAAACMAAAAAAAAgACACAAAAQ=</HashCode>
+      <FileName>frm_zzgy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_ZZSX" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAADCAAAAACAACAAAACEAAAAAgAAAACAABEAAA=</HashCode>
+      <FileName>frm_ZZSX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frmMBSet" Collapsed="true">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0IAAAAAACAAAhAAAACBBAAiEIggggAQEAAAkQAI/jc=</HashCode>
+      <FileName>frmMBSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Bzxmb" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAABAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\bzxmb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Mcpxh" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAABAAAAAACAAAAAAAAACAAAAggA=</HashCode>
+      <FileName>Model\cpxh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Mbzbomf" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAACAAAAAAAAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Model\Mbzbomf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Mbzbomz" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAAAAAAAAAAACARAAAAQAAEEAAAAMAAAAAAAEgA=</HashCode>
+      <FileName>Model\Mbzbomz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Mbzfb" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAABAAAEAAAAAAAAAAAECQgAQAgA=</HashCode>
+      <FileName>Model\Mbzfb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Mcpybzbomgl" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAEAAAAAACABAAAAQAAAEAAAAAAAAAAAAggA=</HashCode>
+      <FileName>Model\Mcpybzbomgl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.MPosts" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAgAAEAABAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Mposts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Musers" Collapsed="true">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAAAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Musers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Program" Collapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.DataGridViewDataWindowCell" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Untily\DataGridViewDataWindowCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.DataGridViewDataWindowColumn" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAggAAAAJAAAAAQAAAAAAAAAAEAAAARAA=</HashCode>
+      <FileName>Untily\DataGridViewDataWindowColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.DataGridViewDataWindowEditingControl" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAIAAIAAAEAAgAAAQBAAABAAQAMAAUAAAAAIBAA=</HashCode>
+      <FileName>Untily\DataGridViewDataWindowEditingControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MTS.DataWindow" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CwgAgAAKASKAAgAABAZAEFAQQCoAAABQAAQwQQEwJAE=</HashCode>
+      <FileName>Untily\DataWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.AfterSelectorEventArgs" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAgAA=</HashCode>
+      <FileName>Untily\DataWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.FenYe" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Untily\FenYe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Log" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Untily\Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.serverTime" Collapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAABAAAAAAAAAA=</HashCode>
+      <FileName>Untily\serverTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.SqlHelper" Collapsed="true">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAACAAAAAACAEABAAAEAAgAQAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>Untily\SqlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.SqlHelperParameterCache" Collapsed="true">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAECAAIAAAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Untily\SqlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.frm_Zzbd" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAgiBAABgCAACwAoACBACAAAAAAEACoAAQBAA=</HashCode>
+      <FileName>ZZBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Properties.Resources" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTS.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="MTS.AfterSelectorEventHandler" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Untily\DataWindow.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
